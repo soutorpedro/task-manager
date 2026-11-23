@@ -24,12 +24,6 @@ java -cp out Main
 
 Tested in Windows PowerShell. `tasks.txt` is created in the folder you run the program from.
 
-## Example session
-
-```
-[paste a real run from your terminal]
-```
-
 ## Project structure
 
 The code is split so that each class has one job:
